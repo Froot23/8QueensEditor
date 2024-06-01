@@ -2,7 +2,7 @@
 import pygame as pg
 import pygame.image
 pg.init()
-import sets
+# import sets
 
 placedQueens = 0
 mat = []
